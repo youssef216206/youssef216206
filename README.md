@@ -56,7 +56,7 @@ Passionate about building smart digital solutions through **code**, **creativity
 ## 📌 Featured Projects
 
 ### 🎮 Futuristic Games Table  
-A sleek web-based table comparing futuristic games with interactive UI.  
+
 **Tech Used:** HTML, CSS, JavaScript  
 🔗 *[View on GitHub](#)*
 
