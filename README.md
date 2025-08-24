@@ -1,100 +1,87 @@
+# 👋 Hi, I'm Youssef Mostafa
 
-# 👋 Hi there, I'm Youssef Mostafa!
-
-🎓 **Computer & AI Student** at Cairo University  
-🧑‍🎓 Age: 19 years old  
-💻 Aspiring Software Developer | 🤖 AI Engineer | 🎨 UI/UX Designer  
-
-Passionate about building smart digital solutions through **code**, **creativity**, and **continuous learning** ✨
+**Computer & AI Student | Aspiring Software Developer | AI Engineer | UI/UX Designer**
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer & AI student with a strong interest in software engineering and intelligent systems  
-- 💻 Exploring **Python**, **C++**, **React**, and **UI/UX Design**  
-- 📈 Always striving to grow technically and personally 
+🎓 Computer & AI student with a strong interest in software engineering and intelligent systems  
+💻 Exploring Python, C++, React, and UI/UX Design  
+📈 Always striving to grow both technically and personally
 
-🔹 CS Student who believes in learning by building
-🔹 Fitness Enthusiast 💪 - Believe in both mental and physical growth
-🔹 Music Lover 🎵 - Always coding with good vibes in the background
-🔹 Building Projects that showcase technical skills and creativity
-🔹 Future Goal → Full-stack developer with AI expertise, creating intelligent solutions
-
----
-
-## 📚 Currently Learning
-
-- 🤖 Advanced **Python** & **AI/ML**  
-- 💻 **C++** for systems and performance-oriented development  
-- 🌐 Frontend Development: **React**, **JavaScript**, **CSS**, **HTML**  
-- 🎨 UI/UX Principles & Design Thinking  
+- CS student who believes in learning by building
+- Fitness enthusiast 💪 — committed to both mental and physical growth
+- Music lover 🎵 — always coding with good vibes in the background
+- Building projects that showcase technical skills and creativity
+- Future goal: Full-stack developer with AI expertise, creating intelligent solutions
 
 ---
 
-## 💻 Core Skills
+## 🛠️ Technical Skills
 
- Programming Languages
-- 🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
-- ⚙️ C++           🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
+**Programming Languages**
+- **Python:** 70%
+- **C++:** 90%
 
- Web Development  
-- 🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
-- ⚡ JavaScript     🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
-- ⚛️ React                     🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
+**Web Development**
+- **HTML/CSS:** 80%
+- **JavaScript:** 50%
+- **React:** 40%
 
- AI/ML
-- 🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
-- 🧠 Deep Learning    🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  45%
+**AI/Machine Learning**
+- **Machine Learning:** 55%
+- **Deep Learning:** 45%
 
----
-
-## 🛠️ Other Skills
-
-- 🎨 UI/UX Design (Figma, Adobe XD)  
-- 📊 Microsoft Office (Word, Excel, PowerPoint)
-- 🎨 UI/UX Design & Prototyping
-- 🔬 Data Analysis & Visualization
-- 📈 Model Training & Evaluation
-- 🌐 Responsive Web Design
-- 🚀 Model Deployment
-- 💡 Design Thinking
+**Other Tools**
+- UI/UX Design: Figma, Adobe XD
+- Data Analysis & Visualization
+- Microsoft Office Suite
+- Model Training, Evaluation & Deployment
+- Responsive Web Design
+- Design Thinking
 
 ---
 
-## 🌟 Soft Skills
+## 🌱 Currently Learning
 
-- 💬 Communication & Teamwork  
-- 🔍 Problem Solving & Adaptability  
-- 🧠 Self-Learning & Discipline
-- 👑 Leadership Skills
-- 📈 Marketing & Business Awareness
-- 🎯 Brand Representation
+- Advanced Python & AI/ML
+- C++ for performance-oriented development
+- Frontend development: React, JavaScript, CSS, HTML
+- UI/UX principles & design thinking
+
+---
+
+## 💡 Soft Skills
+
+- Communication & Teamwork
+- Problem Solving & Adaptability
+- Self-Learning & Discipline
+- Leadership
+- Marketing & Business Awareness
+- Brand Representation
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎮 Futuristic Games Table  
+### 🎮 Futuristic Games Table
+Interactive games table built using HTML, CSS, and JavaScript.  
+[View on GitHub](#)
 
-**Tech Used:** HTML, CSS, JavaScript  
-🔗 *[View on GitHub](#)*
-
----
-
-### 📝 CLI To-Do List  
-A colorful command-line app with priority-based tasks and auto-saving.  
-**Tech Used:** Python, Colorama  
-🔗 *[View on GitHub](#)*
+### 📝 CLI To-Do List
+A colorful command-line app for managing tasks with priority and auto-saving features.  
+Tech: Python, Colorama  
+[View on GitHub](#)
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/youssefmostafa)  
-- 📧 youssef216206@example.com *(replace with your real email)*  
-- 🌐 Portfolio: *Coming Soon*
+- [LinkedIn](https://www.linkedin.com/in/youssefmostafa)
+- Email: youssef216206@example.com *(replace with your real email)*
+- Portfolio: *Coming Soon*
 
 ---
 
-> 🔥 “Technology is the bridge between ideas and impact. I'm here to build that bridge.”
+> “Technology is the bridge between ideas and impact. I'm here to build that bridge.”
