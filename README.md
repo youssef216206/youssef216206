@@ -40,7 +40,9 @@ Passionate about building smart digital solutions through **code**, **creativity
 
 # Web Development  
 🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
+
 ⚡ JavaScript    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
+
 ⚛️ React         🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
 
 # AI/ML
