@@ -34,18 +34,18 @@ Passionate about building smart digital solutions through **code**, **creativity
 
 ## 💻 Core Skills
 
-# Programming Languages
-🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
-⚙️ C++           🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
+ Programming Languages
+- 🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+- ⚙️ C++           🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
 
-# Web Development  
+ Web Development  
 - 🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
 - ⚡ JavaScript     🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
 - ⚛️ React             🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
 
-# AI/ML
-🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
-🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜   45%
+ AI/ML
+- 🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
+= 🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜   45%
 
 ---
 
