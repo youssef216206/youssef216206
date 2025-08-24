@@ -20,26 +20,22 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- **Python:** 70%
-- **C++:** 90%
+| Area                | Skill/Tool       | Proficiency   |
+|---------------------|------------------|--------------|
+| Programming         | Python           | 70% (Advanced) |
+| Programming         | C++              | 90% (Advanced) |
+| Web Development     | HTML/CSS         | 80% (Strong foundation) |
+| Web Development     | JavaScript       | 50% (Intermediate) |
+| Web Development     | React            | 40% (Intermediate) |
+| AI/Machine Learning | Machine Learning | 55% (Practical Experience) |
+| AI/Machine Learning | Deep Learning    | 45% (Hands-on Experience) |
+| UI/UX Design        | Figma, Adobe XD  | 75% (Proficient) |
+| Data Analysis       | Visualization    | 60% (Proficient) |
+| Office Tools        | MS Office Suite  | 80% (Proficient) |
+| Other               | Git & GitHub     | 75% (Proficient) |
+| Other               | Model Deployment | 50% (Intermediate) |
 
-**Web Development**
-- **HTML/CSS:** 80%
-- **JavaScript:** 50%
-- **React:** 40%
-
-**AI/Machine Learning**
-- **Machine Learning:** 55%
-- **Deep Learning:** 45%
-
-**Other Tools**
-- UI/UX Design: Figma, Adobe XD
-- Data Analysis & Visualization
-- Microsoft Office Suite
-- Model Training, Evaluation & Deployment
-- Responsive Web Design
-- Design Thinking
+*Percentages indicate self-assessed proficiency based on education and project experience.*
 
 ---
 
