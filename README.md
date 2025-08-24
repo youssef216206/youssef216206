@@ -13,7 +13,13 @@ Passionate about building smart digital solutions through **code**, **creativity
 
 - 🎓 Computer & AI student with a strong interest in software engineering and intelligent systems  
 - 💻 Exploring **Python**, **C++**, **React**, and **UI/UX Design**  
-- 📈 Always striving to grow technically and personally  
+- 📈 Always striving to grow technically and personally 
+
+🔹 CS Student who believes in learning by building
+🔹 Fitness Enthusiast 💪 - Believe in both mental and physical growth
+🔹 Music Lover 🎵 - Always coding with good vibes in the background
+🔹 Building Projects that showcase technical skills and creativity
+🔹 Future Goal → Full-stack developer with AI expertise, creating intelligent solutions
 
 ---
 
@@ -28,20 +34,31 @@ Passionate about building smart digital solutions through **code**, **creativity
 
 ## 💻 Core Skills
 
-| Skill          | Proficiency        |
-|----------------|--------------------|
-| 🟢 Python       | █████░░░░░░ 50%     |
-| 🟡 HTML/CSS     | █████░░░░░░ 50%     |
-| 🟡 JavaScript   | ████░░░░░░░ 45%     |
-| 🟠 C++          | ███░░░░░░░░ 30%     |
-| 🔵 React        | ██░░░░░░░░░ 20%     |
+# Programming Languages
+🐍 Python        🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜  70%
+⚙️ C++           🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
+
+# Web Development  
+🌐 HTML/CSS      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
+⚡ JavaScript    🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
+⚛️ React         🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜  40%
+
+# AI/ML
+🤖 Machine Learning 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  55%
+🧠 Deep Learning   🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜   45%
 
 ---
 
 ## 🛠️ Other Skills
 
 - 🎨 UI/UX Design (Figma, Adobe XD)  
-- 📊 Microsoft Office (Word, Excel, PowerPoint)  
+- 📊 Microsoft Office (Word, Excel, PowerPoint)
+- 🎨 UI/UX Design & Prototyping
+- 🔬 Data Analysis & Visualization
+- 📈 Model Training & Evaluation
+- 🌐 Responsive Web Design
+- 🚀 Model Deployment
+- 💡 Design Thinking
 
 ---
 
@@ -49,7 +66,10 @@ Passionate about building smart digital solutions through **code**, **creativity
 
 - 💬 Communication & Teamwork  
 - 🔍 Problem Solving & Adaptability  
-- 🧠 Self-Learning & Discipline  
+- 🧠 Self-Learning & Discipline
+- 👑 Leadership Skills
+- 📈 Marketing & Business Awareness
+- 🎯 Brand Representation
 
 ---
 
