@@ -41,85 +41,80 @@
 <br/>
 
 <!-- Table for proficiency (with icons + percentages) -->
-<table align="center">
-  <tr>
-    <th>:star: Skill</th>
-    <th>:dart: Level</th>
-    <th>:bar_chart: Proficiency</th>
-    <th>:chart_with_upwards_trend: Visualization</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</td>
-    <td>Advanced</td>
-    <td>70%</td>
-    <td><img src="https://progress-bar.dev/70/?width=200&color=3776AB" alt="Python 70%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</td>
-    <td>Expert</td>
-    <td>90%</td>
-    <td><img src="https://progress-bar.dev/90/?width=200&color=00599C" alt="C++ 90%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML/CSS</td>
-    <td>Strong Foundation</td>
-    <td>80%</td>
-    <td><img src="https://progress-bar.dev/80/?width=200&color=E34F26" alt="HTML/CSS 80%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript</td>
-    <td>Intermediate</td>
-    <td>50%</td>
-    <td><img src="https://progress-bar.dev/50/?width=200&color=F7DF1E" alt="JavaScript 50%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React</td>
-    <td>Intermediate</td>
-    <td>40%</td>
-    <td><img src="https://progress-bar.dev/40/?width=200&color=61DAFB" alt="React 40%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24"/> Deep Learning</td>
-    <td>Hands-on</td>
-    <td>45%</td>
-    <td><img src="https://progress-bar.dev/45/?width=200&color=FF6F00" alt="DL 45%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="24"/> Machine Learning</td>
-    <td>Practical</td>
-    <td>55%</td>
-    <td><img src="https://progress-bar.dev/55/?width=200&color=F7931E" alt="ML 55%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24"/> UI/UX (Figma/Adobe XD)</td>
-    <td>Proficient</td>
-    <td>75%</td>
-    <td><img src="https://progress-bar.dev/75/?width=200&color=F24E1E" alt="UI/UX 75%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git & GitHub</td>
-    <td>Proficient</td>
-    <td>75%</td>
-    <td><img src="https://progress-bar.dev/75/?width=200&color=181717" alt="Git/GitHub 75%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="24"/> MS Office Suite</td>
-    <td>Proficient</td>
-    <td>80%</td>
-    <td><img src="https://progress-bar.dev/80/?width=200&color=0078D4" alt="MS Office 80%"/></td>
-  </tr>
-  <tr>
-    <td>Data Analysis</td>
-    <td>Proficient</td>
-    <td>60%</td>
-    <td><img src="https://progress-bar.dev/60/?width=200&color=00B8D9" alt="Data Analysis 60%"/></td>
-  </tr>
-  <tr>
-    <td>Model Deployment</td>
-    <td>Intermediate</td>
-    <td>50%</td>
-    <td><img src="https://progress-bar.dev/50/?width=200&color=888888" alt="Model Deployment 50%"/></td>
-  </tr>
+
+
+<div align="center">
+
+<table style="border-radius: 10px; border: 1px solid #222; background: #1a1a1a; color: #eee; box-shadow: 0 2px 8px #0005;">
+  <thead style="background: #222; color: #fff;">
+    <tr>
+      <th style="padding: 10px 16px; border-radius: 10px 0 0 0;">⭐ Skill</th>
+      <th style="padding: 10px 16px;">🎯 Level</th>
+      <th style="padding: 10px 16px;">📊 Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python</td>
+      <td style="padding: 8px 16px;">Advanced</td>
+      <td style="padding: 8px 16px;"><span style="color: #3776AB; font-weight: bold;">70%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++</td>
+      <td style="padding: 8px 16px;">Expert</td>
+      <td style="padding: 8px 16px;"><span style="color: #00599C; font-weight: bold;">90%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> HTML/CSS</td>
+      <td style="padding: 8px 16px;">Strong Foundation</td>
+      <td style="padding: 8px 16px;"><span style="color: #E34F26; font-weight: bold;">80%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript</td>
+      <td style="padding: 8px 16px;">Intermediate</td>
+      <td style="padding: 8px 16px;"><span style="color: #F7DF1E; font-weight: bold;">50%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React</td>
+      <td style="padding: 8px 16px;">Intermediate</td>
+      <td style="padding: 8px 16px;"><span style="color: #61DAFB; font-weight: bold;">40%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22"/> Deep Learning</td>
+      <td style="padding: 8px 16px;">Hands-on</td>
+      <td style="padding: 8px 16px;"><span style="color: #FF6F00; font-weight: bold;">45%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="22"/> Machine Learning</td>
+      <td style="padding: 8px 16px;">Practical</td>
+      <td style="padding: 8px 16px;"><span style="color: #F7931E; font-weight: bold;">55%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22"/> UI/UX (Figma/Adobe XD)</td>
+      <td style="padding: 8px 16px;">Proficient</td>
+      <td style="padding: 8px 16px;"><span style="color: #F24E1E; font-weight: bold;">75%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> Git & GitHub</td>
+      <td style="padding: 8px 16px;">Proficient</td>
+      <td style="padding: 8px 16px;"><span style="color: #181717; font-weight: bold;">75%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="22"/> MS Office Suite</td>
+      <td style="padding: 8px 16px;">Proficient</td>
+      <td style="padding: 8px 16px;"><span style="color: #0078D4; font-weight: bold;">80%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;">📊 Data Analysis</td>
+      <td style="padding: 8px 16px;">Proficient</td>
+      <td style="padding: 8px 16px;"><span style="color: #00B8D9; font-weight: bold;">60%</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 16px;">🖥️ Model Deployment</td>
+      <td style="padding: 8px 16px;">Intermediate</td>
+      <td style="padding: 8px 16px;"><span style="color: #888; font-weight: bold;">50%</span></td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
