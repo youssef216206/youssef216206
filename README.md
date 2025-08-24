@@ -159,7 +159,7 @@ Tech: Python, Colorama
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssefmostafa"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="linkedin.com/in/𝒀𝑶𝑼𝑺𝑺𝑬𝑭-𝑴𝑶𝑺𝑻𝑨𝑭𝑨-0b3b54282"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:youssef216206@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=for-the-badge" alt="Portfolio Badge">
 </p>
