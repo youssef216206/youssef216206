@@ -10,11 +10,6 @@
 💻 Exploring Python, C++, React, and UI/UX Design  
 📈 Always striving to grow both technically and personally
 
-- CS student who believes in learning by building
-- Fitness enthusiast 💪 — committed to both mental and physical growth
-- Music lover 🎵 — always coding with good vibes in the background
-- Building projects that showcase technical skills and creativity
-- Future goal: Full-stack developer with AI expertise, creating intelligent solutions
 
 ---
 
